@@ -19,7 +19,7 @@ class ChartFrame extends JFrame {
     private final ChartPanel panel;
 
     public ChartFrame() {
-        setTitle("Bar Chart with Grid and Random Colors");
+
         setSize(300, 300);
         setLayout(new BorderLayout());
 
